@@ -1,4 +1,5 @@
 # NexusLinks - Effortless Website Recall
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7526eb66-80c6-4d08-8512-2c93ee7c0e0a/deploy-status)](https://app.netlify.com/sites/itzurbookmark/deploys)
 
 NexusLinks is a web-based bookmarking tool that helps users remember websites through visually recognizable logos and stylish bookmarks. It enhances the browsing experience with an organized and appealing layout.
 
